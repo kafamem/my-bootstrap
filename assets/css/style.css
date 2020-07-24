@@ -8,17 +8,18 @@ body {
     background-color: #f05f40;
     color: white;
 }
+
 .alert-container .col12 {
     padding-left: 0;
     padding-right: 0;
-    }
+}
 
 .site-wide-alert {
     border-radius: 0;
     margin-bottom: 0;
     padding: 5px 15px;
     background-color: #eec802;
-    border-color: #eec802;
+    border-color: #eec802;    
 }
 
 .callout-container {
